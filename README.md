@@ -1,2 +1,2 @@
 # StockPricePrediction
-I implement a basic machine learning model to predict stick price. 
+I implement a basic machine learning model to predict stock price. 
